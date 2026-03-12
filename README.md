@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name: Anish S
-### Reg no:212224250003
+### Name: Vishwa K
+### Reg no:212223080061
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
